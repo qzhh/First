@@ -26,5 +26,6 @@ public class MainActivity extends AppCompatActivity {
         //字体在屏幕的显示比
         float sd=dm.scaledDensity;
         Log.i("123",""+density+dpi+w+h+sd);
+        Log.i("456",""+density);
     }
 }
